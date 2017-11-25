@@ -4,6 +4,7 @@
   "description": "Yum",
   "main": "src/index.js",
   "author": "Gio d'Amelio <giodamelio@gmail.com>",
+  "repository": "git@github.com:giodamelio/pad-thai.git",
   "license": "MIT",
   "private": false,
   "scripts": {
