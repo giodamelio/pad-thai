@@ -6,7 +6,13 @@
   "author": "Gio d'Amelio <giodamelio@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "test": "jest"
+  },
   "dependencies": {
     "lodash.pad": "^4.5.1"
+  },
+  "devDependencies": {
+    "jest": "^21.2.1"
   }
 }
