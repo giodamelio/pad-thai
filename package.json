@@ -10,7 +10,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "lodash.pad": "^4.5.1"
+    "lodash.pad": "^4.5.1",
+    "lodash.padend": "^4.6.1",
+    "lodash.padstart": "^4.6.1"
   },
   "devDependencies": {
     "jest": "^21.2.1"
