@@ -2,7 +2,7 @@
 
 ![Pad Thai](pad-thai.jpg)
 
-<sup><sup>[Image CC BY-SA 3.0](https://en.wikipedia.org/wiki/Pad_thai#/media/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg)</sup></sup>
+<sup>[Image CC BY-SA 3.0](https://en.wikipedia.org/wiki/Pad_thai#/media/File:Phat_Thai_kung_Chang_Khien_street_stall.jpg)</sup>
 
 Yum.
 
