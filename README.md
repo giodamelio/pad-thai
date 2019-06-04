@@ -9,8 +9,6 @@ Yum.
 ### Install
 
 ```
-$ yarn add pad-thai
-# or
 $ npm install pad-thai
 ```
 
