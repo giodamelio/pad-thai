@@ -1,4 +1,5 @@
 # Pad Thai
+[![Travis (.org)](https://img.shields.io/travis/giodamelio/pad-thai.svg?style=flat-square)](https://travis-ci.org/giodamelio/pad-thai) [![npm](https://img.shields.io/npm/v/pad-thai.svg?style=flat-square)](https://www.npmjs.com/package/pad-thai) [![NPM](https://img.shields.io/npm/l/pad-thai.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ![Pad Thai](pad-thai.jpg)
 
