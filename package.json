@@ -16,6 +16,6 @@
     "lodash.padstart": "^4.6.1"
   },
   "devDependencies": {
-    "jest": "^21.2.1"
+    "jest": "^24.8.0"
   }
 }
