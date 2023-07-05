@@ -21,7 +21,7 @@ $ npm install pad-thai
 ### Usage
 
 ```javascript
-const { padThai, padThaiStart, padThaiEnd } = require('pad-thai');
+import { padThai, padThaiStart, padThaiEnd } from 'pad-thai';
 
 console.log(padThai(' Hello World ', 21)); // prints "thai Hello World thai"
 console.log(padThaiStart(' Hello World', 16)); // prints "thai Hello World"
