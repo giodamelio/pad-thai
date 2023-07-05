@@ -1,5 +1,10 @@
 # Pad Thai
-[![GitHub Workflow Status for Node.js](https://img.shields.io/github/actions/workflow/status/giodamelio/pad-thai/node.yml?style=flat-square&label=Node.js%20Build)](https://github.com/giodamelio/pad-thai/actions/workflows/node.yml) [![Coveralls github](https://img.shields.io/coveralls/github/giodamelio/pad-thai.svg?style=flat-square)](https://coveralls.io/github/giodamelio/pad-thai) ![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/pad-thai?style=flat-square) [![npm](https://img.shields.io/npm/v/pad-thai?style=flat-square)](https://www.npmjs.com/package/pad-thai) [![NPM](https://img.shields.io/npm/l/pad-thai.svg?style=flat-square)](https://opensource.org/licenses/MIT)
+[![GitHub Workflow Status for Node.js](https://img.shields.io/github/actions/workflow/status/giodamelio/pad-thai/node.yml?style=flat-square&label=Node.js%20Build)](https://github.com/giodamelio/pad-thai/actions/workflows/node.yml)
+[![Libraries.io dependency status for latest release](https://img.shields.io/librariesio/release/npm/pad-thai?style=flat-square)](https://libraries.io/npm/pad-thai)
+[![Codacy grade](https://img.shields.io/codacy/grade/804521530f134a7eaff3e4c192b8089c?style=flat-square)](https://app.codacy.com/gh/giodamelio/pad-thai/dashboard)
+[![Codacy coverage](https://img.shields.io/codacy/coverage/804521530f134a7eaff3e4c192b8089c?style=flat-square)](https://app.codacy.com/gh/giodamelio/pad-thai/coverage/dashboard)
+[![npm](https://img.shields.io/npm/v/pad-thai?style=flat-square)](https://www.npmjs.com/package/pad-thai)
+[![NPM](https://img.shields.io/npm/l/pad-thai.svg?style=flat-square)](https://opensource.org/licenses/MIT)
 
 ![Pad Thai](pad-thai.jpg)
 
