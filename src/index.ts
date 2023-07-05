@@ -1,6 +1,4 @@
-import pad from 'lodash.pad'
-import padStart from 'lodash.padstart'
-import padEnd from 'lodash.padend'
+import {pad, padStart, padEnd} from 'lodash';
 
 export function padThai(input: string, length: number) {
   return pad(input, length, 'thai');
