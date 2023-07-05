@@ -12,7 +12,7 @@
     "test": "jest",
     "build": "tsc",
     "coverage": "npm run test -- --coverage",
-    "format": "prettier --write 'src/**/*.js' 'test/**/*.js'",
+    "format": "prettier --write 'src/**/*.ts' 'test/**/*.ts'",
     "prepublish": "npm run build"
   },
   "dependencies": {
@@ -23,7 +23,7 @@
     "@types/lodash": "^4.14.195",
     "coveralls": "3.0.4",
     "jest": "^29.6.0",
-    "prettier": "1.18.2",
+    "prettier": "^3.0.0",
     "ts-jest": "^29.1.1",
     "typescript": "^5.1.6"
   },
