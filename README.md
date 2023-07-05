@@ -14,8 +14,16 @@ Yum.
 
 ## Install
 
+### Node.js
+
 ```
 $ npm install pad-thai
+```
+
+### Deno
+
+```typescript
+import { padThai, padThaiStart, padThaiEnd } from 'https://github.com/giodamelio/pad-thai/raw/master/src/index.ts';
 ```
 
 ## Usage
