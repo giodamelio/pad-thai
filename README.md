@@ -12,13 +12,15 @@
 
 Yum.
 
-### Install
+## Install
 
 ```
 $ npm install pad-thai
 ```
 
-### Usage
+## Usage
+
+### Node.js
 
 ```javascript
 import { padThai, padThaiStart, padThaiEnd } from 'pad-thai';
@@ -28,6 +30,16 @@ console.log(padThaiStart(' Hello World', 16)); // prints "thai Hello World"
 console.log(padThaiEnd('Hello World ', 16)); // prints "Hello World thai"
 ```
 
-### Why?
+### Deno
+
+```typescript
+import { padThai, padThaiStart, padThaiEnd } from 'https://github.com/giodamelio/pad-thai/raw/master/src/index.ts';
+
+console.log(padThai(' Hello World ', 21)); // prints "thai Hello World thai"
+console.log(padThaiStart(' Hello World', 16)); // prints "thai Hello World"
+console.log(padThaiEnd('Hello World ', 16)); // prints "Hello World thai"
+```
+
+## Why?
 
 I was hungry and bored one night.
