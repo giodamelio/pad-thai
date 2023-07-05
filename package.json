@@ -2,15 +2,18 @@
   "name": "pad-thai",
   "version": "1.0.2",
   "description": "Yum",
-  "main": "src/index.js",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "author": "Gio d'Amelio <giodamelio@gmail.com>",
   "repository": "git@github.com:giodamelio/pad-thai.git",
   "license": "MIT",
   "private": false,
   "scripts": {
     "test": "jest",
+    "build": "tsc",
     "coverage": "npm run test -- --coverage",
-    "format": "prettier --write 'src/**/*.js' 'test/**/*.js'"
+    "format": "prettier --write 'src/**/*.js' 'test/**/*.js'",
+    "prepublish": "npm run build"
   },
   "dependencies": {
     "lodash.pad": "^4.5.1",
@@ -18,8 +21,14 @@
     "lodash.padstart": "^4.6.1"
   },
   "devDependencies": {
+    "@jest/globals": "^29.6.0",
+    "@types/lodash.pad": "^4.5.7",
+    "@types/lodash.padend": "^4.6.7",
+    "@types/lodash.padstart": "^4.6.7",
     "coveralls": "3.0.4",
-    "jest": "24.8.0",
-    "prettier": "1.18.2"
+    "jest": "^29.6.0",
+    "prettier": "1.18.2",
+    "ts-jest": "^29.1.1",
+    "typescript": "^5.1.6"
   }
 }

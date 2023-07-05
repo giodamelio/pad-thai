@@ -1,4 +1,6 @@
-const { padThai, padThaiStart, padThaiEnd } = require('../');
+import { describe, it, expect } from '@jest/globals';
+
+import { padThai, padThaiStart, padThaiEnd } from '..';
 
 describe('padThai()', () => {
   it('Pad correctly', () => {
